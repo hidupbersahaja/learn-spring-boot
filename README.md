@@ -1,2 +1,2 @@
 # learn-spring-boot
-Learn Spring Boot purpose
+It's just simple spring boot project for personal learning purpose
